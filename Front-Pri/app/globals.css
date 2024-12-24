@@ -40,3 +40,14 @@ body {
   animation: fadeIn 4s ease-in;
 }
 
+/* styles.css */
+a.hover-style {
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+a.hover-style:hover {
+  color: #ff5555; /* Cambia el color al pasar el ratón */
+  transform: scale(1.05); /* Aumenta ligeramente el tamaño */
+}
+
+

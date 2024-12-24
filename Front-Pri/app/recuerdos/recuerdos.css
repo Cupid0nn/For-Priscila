@@ -1,0 +1,85 @@
+/* recuerdos.css */
+body {
+    background: linear-gradient(to right, #FFB6C1, #FFC0CB, #FF69B4); /* Degradado rosado/romántico */
+    color: white;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .main-container {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Cuadrícula de 4 columnas */
+    gap: 20px; /* Espacio entre las cajas */
+  }
+  
+  h1 {
+    grid-column: span 4; /* Título ocupa todo el ancho */
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para mejor legibilidad */
+  }
+  
+  .image-container {
+    background-color: rgba(255, 192, 203, 0.9); /* Fondo rosado */
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s, box-shadow 0.3s; /* Transición para hover */
+    text-align: center;
+  }
+  
+  .image-container:hover {
+    transform: scale(1.05); /* Aumentar ligeramente el tamaño */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); /* Aumentar la sombra */
+  }
+  
+  .image-container img {
+    width: 250px; /* Tamaño más grande */
+    height: 200px; /* Tamaño más grande */
+    border-radius: 10px;
+    margin: 0 auto 10px auto; /* Centrar la imagen */
+  }
+  
+  .image-container p {
+    margin: 0;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra para mejor legibilidad */
+  }
+  
+  /* Estilos para el enlace "Volver a la Página Principal" */
+  .return-link-container {
+    grid-column: span 4; /* Ocupa todo el ancho en la cuadrícula */
+    background-color: rgba(255, 192, 203, 0.9); /* Fondo rosado */
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .return-link-container:hover {
+    transform: scale(1.05); /* Aumentar ligeramente el tamaño */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); /* Aumentar la sombra */
+  }
+  
+  .return-link {
+    font-size: 1.2em;
+    color: #ffffff;
+    background-color: #ff69b4;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s;
+  }
+  
+  .return-link:hover {
+    background-color: #ff1493; /* Cambiar color en hover */
+  }
+  
+  /* recuerdos.css */
+
+  
