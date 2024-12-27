@@ -15,19 +15,19 @@ export default function Recuerdos() {
 
       <div className="image-container">
         <p>Nuestra Primera Cita</p>
-        <Link href="/recuerdos/primera-cita">
+        <Link href="/primercita">
           <Image src="/recuerdo1.jpg" alt="Recuerdo 1" width={250} height={200} />
         </Link>
       </div>
       <div className="image-container">
         <p>Una salida Juntos</p>
-        <Link href="/recuerdos/salida">
+        <Link href="salida">
           <Image src="/recuerdo2.jpg" alt="Recuerdo 2" width={250} height={200} />
         </Link>
       </div>
       <div className="image-container">
         <p>Celebrando Nuestro Aniversario</p>
-        <Link href="/recuerdos/aniversario">
+        <Link href="/aniversario">
           <Image src="/recuerdo3.jpg" alt="Recuerdo 3" width={250} height={200} />
         </Link>
       </div>
