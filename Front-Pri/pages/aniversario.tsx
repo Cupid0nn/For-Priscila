@@ -4,11 +4,11 @@ import Link from 'next/link';
 import { FaArrowLeft } from 'react-icons/fa'; // Importar ícono de React Icons
 import './pages.css'; // Hoja de estilos compartida
 
-export default function Primercita() {
+export default function Aniversario() {
   return (
     <div className="main-container">
       <Head>
-        <title>Primer Cita</title>
+        <title>Celebrando Nuestro Aniversario</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1 className="title">Celebrando Nuestro Aniversario</h1>

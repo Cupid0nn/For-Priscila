@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { FaArrowLeft } from 'react-icons/fa'; // Importar ícono de React Icons
 import './pages.css'; // Hoja de estilos compartida
 
-export default function Primercita() {
+export default function BarrioChino() {
   return (
     <div className="main-container">
       <Head>
@@ -15,7 +15,7 @@ export default function Primercita() {
       <div className="content">
         <div className="story-container">
           <p className="story-text">
-          Cuando fuimos al barrio me acuerdo que estabas hermosa con ese pelo cortito y de color azul 💙, esos lentesitos rosas 😎 y una remerita holgada. Compramos un dumpling de cerdo que estaba asqueroso 🤢 y unas sodas rosas 🥤, estaba lleno de gente 👫👬👭. Pero mi parte favorita fue sacarte fotos 📸 en la plaza de por ahí nomás, estabas hermosa como siempre 🌸.</p>
+          Cuando fuimos al barrio, me acuerdo que estabas hermosa con ese pelo cortito y de color azul 💙, esos lentesitos rosas 😎 y una remerita holgada. Compramos un dumpling de cerdo que estaba asqueroso 🤢 y unas sodas rosas 🥤, estaba lleno de gente 👫👬👭. Pero mi parte favorita fue sacarte fotos 📸 en la plaza de por ahí nomás, estabas hermosa como siempre 🌸.</p>
         </div>
         <div className="image-container">
           <Image src="/recuerdo6.jpg" alt="Barrio chino" width={500} height={400} />

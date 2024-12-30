@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { FaArrowLeft } from 'react-icons/fa'; // Importar ícono de React Icons
 import './pages.css'; // Hoja de estilos compartida
 
-export default function Primercita() {
+export default function Dibujos() {
   return (
     <div className="main-container">
       <Head>

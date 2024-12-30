@@ -4,21 +4,21 @@ import Link from 'next/link';
 import { FaArrowLeft } from 'react-icons/fa'; // Importar ícono de React Icons
 import './pages.css'; // Hoja de estilos compartida
 
-export default function Primercita() {
+export default function DespuesdelColegio() {
   return (
     <div className="main-container">
       <Head>
-        <title>Despues del Colegio</title>
+        <title>Después del Colegio</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1 className="title">Despues del Colegio</h1>
+      <h1 className="title">Después del Colegio</h1>
       <div className="content">
         <div className="story-container">
           <p className="story-text">
-          💞💘Me acuerdo que despues del colegio soliamos quedarnos un rato antes en la plaza solo para estar mas tiempo juntos, hablabamos boludeces y no nos soltabamos por que sabiamos que no ibamos a pasar la noche juntos❣💟.  Realmente extraño esa priscila melosa y pegote💗</p>
+          💞💘Me acuerdo que después del colegio solíamos quedarnos un rato antes en la plaza solo para estar más tiempo juntos, hablábamos boludeces y no nos soltabamos porque sabíamos que no íbamos a pasar la noche juntos❣💟.  Realmente extraño esa Priscila melosa y pegote💗</p>
         </div>
         <div className="image-container">
-          <Image src="/recuerdo4.jpg" alt="despues del colegio" width={500} height={400} />
+          <Image src="/recuerdo4.jpg" alt="después del colegio" width={500} height={400} />
         </div>
       </div>
 

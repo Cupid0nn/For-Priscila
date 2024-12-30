@@ -21,7 +21,7 @@ export default function Recuerdos() {
       </div>
       <div className="image-container">
         <p>Una salida Juntos</p>
-        <Link href="salida">
+        <Link href="/salida">
           <Image src="/recuerdo2.jpg" alt="Recuerdo 2" width={250} height={200} />
         </Link>
       </div>
@@ -32,33 +32,33 @@ export default function Recuerdos() {
         </Link>
       </div>
       <div className="image-container">
-        <p>Despues del Colegio</p>
+        <p>Después del Colegio</p>
         <Link href="/colegio">
-          <Image src="public/recuerdo4.jpg" alt="Recuerdo 4" width={250} height={200} />
+          <Image src="/recuerdo4.jpg" alt="Recuerdo 4" width={250} height={200} />
         </Link>
       </div>
       <div className="image-container">
         <p>Siempre vas a ser mi Enanita Hermosa</p>
         <Link href="/mienanita">
-          <Image src="public/recuerdo5.jpg" alt="Recuerdo 5" width={250} height={200} />
+          <Image src="/recuerdo5.jpg" alt="Recuerdo 5" width={250} height={200} />
         </Link>
       </div>
       <div className="image-container">
-        <p>De cuando Fuimos Al barrio chino</p>
+        <p>De cuando fuimos al barrio chino</p>
         <Link href="/barriochino">
-          <Image src="public/recuerdo6.jpg" alt="Recuerdo 6"  width={250} height={200} />
+          <Image src="/recuerdo6.jpg" alt="Recuerdo 6"  width={250} height={200} />
         </Link>
       </div>
       <div className="image-container">
-        <p>Cuando te aburrias y nos dibujabas</p>
-        <Link href="dibujos">
-          <Image src="public/recuerdo7.jpg" alt="Recuerdo 7"  width={250} height={200} />
+        <p>Cuando te aburrías y nos dibujabas</p>
+        <Link href="/dibujos">
+          <Image src="/recuerdo7.jpg" alt="Recuerdo 7"  width={250} height={200} />
         </Link>
       </div>
       <div className="image-container">
-        <p>Cuando nos Escapamos a comprar un cafe gratis</p>
+        <p>Cuando nos escapamos a comprar un café gratis</p>
         <Link href="/cafegratis">
-          <Image src="public/recuerdo8.jpg" alt="Recuerdo 8"  width={250} height={200} />
+          <Image src="/recuerdo8.jpg" alt="Recuerdo 8"  width={250} height={200} />
         </Link>
       </div>
 
