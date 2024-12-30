@@ -18,7 +18,7 @@ export default function Primercita() {
           celebrar todos los 15 como si nos hubieramos casado es algo que ya no hacemos tanto por falta de tiempo y dinero, pero que amaba con todo el alma, ver los dibujitos que me hacias.   y todos esos caramelos que comiamos me hacian muy feliz. espero que consideres este regalo de fin de año como 10 de estos por que lo que me esta costando es mucho🎀💕 </p>
         </div>
         <div className="image-container">
-          <Image src="/recuerdo3.jpg" alt="Primera Cita" width={500} height={400} />
+          <Image src="/recuerdo3.jpg" alt="Recuerdo 3" width={500} height={400} />
         </div>
       </div>
 

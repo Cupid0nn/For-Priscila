@@ -18,7 +18,7 @@ export default function Primercita() {
           💞💘Me acuerdo que despues del colegio soliamos quedarnos un rato antes en la plaza solo para estar mas tiempo juntos, hablabamos boludeces y no nos soltabamos por que sabiamos que no ibamos a pasar la noche juntos❣💟.  Realmente extraño esa priscila melosa y pegote💗</p>
         </div>
         <div className="image-container">
-          <Image src="/recuerdo4.jpg" alt="Primera Cita" width={500} height={400} />
+          <Image src="/recuerdo4.jpg" alt="despues del colegio" width={500} height={400} />
         </div>
       </div>
 

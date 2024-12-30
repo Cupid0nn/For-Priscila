@@ -19,7 +19,7 @@ export default function Primercita() {
           </p>
         </div>
         <div className="image-container">
-          <Image src="/recuerdo8.jpg" alt="Primera Cita" width={500} height={400} />
+          <Image src="/recuerdo8.jpg" alt="Recuerdo 8" width={500} height={400} />
         </div>
       </div>
 

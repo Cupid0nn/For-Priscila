@@ -18,7 +18,7 @@ export default function Primercita() {
           Recuerdo cómo en tus tiempos libres en el colegio siempre me regalabas dibujitos tuyos o de mí o de los dos ✍️💕. Eran muy tiernos y extraño mucho que me los regales 😔🖼️. Espero que esta página, que durará para siempre, sea una mera compensación por esos dibujos hermosos tuyos 🌟📖.</p>
         </div>
         <div className="image-container">
-          <Image src="/recuerdo7.jpg" alt="Primera Cita" width={500} height={400} />
+          <Image src="/recuerdo7.jpg" alt="Dibujo" width={500} height={400} />
         </div>
       </div>
 

@@ -18,7 +18,7 @@ export default function Primercita() {
           🧡💕Siempre me dio gracia que te enojes por ser muy chiquita, pero te digo una cosa es de lo que mas me gusta de vos, ver tanta energia y determinacion en un envase tan chiquito es tierno y adorable. me gusta cuando nos abrasamos por que quedas super pequeña al lado mio amo tu pelo, tus ojos, tus labios y bueno creo que esas 2 cosas que tenes te las remarco todo el tiempo que las amo...  Me enamore de esa enanita con pelo azul💙 y una marquita en su carita con un culo como para 2 casas💕💌</p>
         </div>
         <div className="image-container">
-          <Image src="/recuerdo5.jpg" alt="Primera Cita" width={500} height={400} />
+          <Image src="/recuerdo5.jpg" alt="Mi enanita" width={500} height={400} />
         </div>
       </div>
 

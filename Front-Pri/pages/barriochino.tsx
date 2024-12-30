@@ -18,7 +18,7 @@ export default function Primercita() {
           Cuando fuimos al barrio me acuerdo que estabas hermosa con ese pelo cortito y de color azul 💙, esos lentesitos rosas 😎 y una remerita holgada. Compramos un dumpling de cerdo que estaba asqueroso 🤢 y unas sodas rosas 🥤, estaba lleno de gente 👫👬👭. Pero mi parte favorita fue sacarte fotos 📸 en la plaza de por ahí nomás, estabas hermosa como siempre 🌸.</p>
         </div>
         <div className="image-container">
-          <Image src="/recuerdo6.jpg" alt="Primera Cita" width={500} height={400} />
+          <Image src="/recuerdo6.jpg" alt="Barrio chino" width={500} height={400} />
         </div>
       </div>
 
