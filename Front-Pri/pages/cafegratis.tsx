@@ -11,11 +11,11 @@ export default function Primercita() {
         <title>Café Gratis</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1 className="title">Café Gratis</h1>
+      <h1 className="title">Cafe Gratis</h1>
       <div className="content">
         <div className="story-container">
           <p className="story-text">
-          Recuerdo que nos escapamos para tomar un café gratis con la App de McDonald's ☕📱 y que te enojaste porque el mío era un venti (más grande) y el tuyo era más chiquito 😠😂. Siempre fuiste muy berrinchuda, mi bebé hermosa, pero es por eso que te amo 💕. Mi nenita pequeña. Te adoro para toda la eternidad, mi enanita peli azul 💙. Nunca cambies.</p>
+          Recuerdo que nos escapamos para tomar un cafe gratis con la App de McDonald's ☕📱 y que te enojaste porque el mío era un venti (más grande) y el tuyo era más chiquito 😠😂. Siempre fuiste muy berrinchuda, mi bebé hermosa, pero es por eso que te amo 💕. Mi nenita pequeña. Te adoro para toda la eternidad, mi enanita peli azul 💙. Nunca cambies.</p>
         </div>
         <div className="image-container">
           <Image src="/recuerdo8.jpg" alt="Primera Cita" width={500} height={400} />
