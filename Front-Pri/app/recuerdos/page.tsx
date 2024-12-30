@@ -46,19 +46,19 @@ export default function Recuerdos() {
       <div className="image-container">
         <p>De cuando Fuimos Al barrio chino</p>
         <Link href="/barriochino">
-          <Image src="/recuerdo6.jpg" alt="Recuerdo 5"  width={250} height={200} />
+          <Image src="/recuerdo6.jpg" alt="Recuerdo 6"  width={250} height={200} />
         </Link>
       </div>
       <div className="image-container">
         <p>Cuando te aburrias y nos dibujabas</p>
         <Link href="dibujos">
-          <Image src="/recuerdo7.jpg" alt="Recuerdo 5"  width={250} height={200} />
+          <Image src="/recuerdo7.jpg" alt="Recuerdo 7"  width={250} height={200} />
         </Link>
       </div>
       <div className="image-container">
         <p>Cuando nos Escapamos a comprar un cafe gratis</p>
         <Link href="/cafegratis">
-          <Image src="/recuerdo8.jpg" alt="Recuerdo 5"  width={250} height={200} />
+          <Image src="/recuerdo8.jpg" alt="Recuerdo 8"  width={250} height={200} />
         </Link>
       </div>
 

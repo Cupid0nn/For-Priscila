@@ -37,10 +37,10 @@ export default function Home() {
 
       <div className="absolute inset-0 opacity-40">
         <div className="relative w-full h-full">
-          <Image src="/my-beloved.jpg" alt="Collage de imágenes" layout="fill" objectFit="cover" className="absolute top-0 left-0" style={{ zIndex: 1 }} />
-          <Image src="/my-beloved2.jpg" alt="Imagen adicional" width={300} height={300} className="absolute top-20 left-20" style={{ zIndex: 1 }} />
-          <Image src="/my-beloved3.jpg" alt="Imagen adicional" width={300} height={300} className="absolute top-40 right-20" style={{ zIndex: 1 }} />
-          <Image src="/my-beloved4.jpg" alt="Imagen adicional" width={300} height={300} className="absolute bottom-20 left-40" style={{ zIndex: 1 }} />
+          <Image src="/mybeloved.jpg" alt="Collage de imágenes" layout="fill" objectFit="cover" className="absolute top-0 left-0" style={{ zIndex: 1 }} />
+          <Image src="/mybeloved2.jpg" alt="Imagen adicional2" width={300} height={300} className="absolute top-20 left-20" style={{ zIndex: 1 }} />
+          <Image src="/mybeloved3.jpg" alt="Imagen adicional3" width={300} height={300} className="absolute top-40 right-20" style={{ zIndex: 1 }} />
+          <Image src="/mybeloved4.jpg" alt="Imagen adicional4" width={300} height={300} className="absolute bottom-20 left-40" style={{ zIndex: 1 }} />
         </div>
       </div>
     </div>
